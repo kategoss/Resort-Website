@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  color: #42aaf4;
+}
+
+h2 {
+  text-align: center;
+  font-weight: lighter;
+  color: grey;
+}
+
+h3 {
+  text-align: center;
+}
+
+body {
+  background-color:  #f4a742;
+}
+
+ul {
+  line-height: 2.5;
+}
